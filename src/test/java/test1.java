@@ -5,5 +5,6 @@ public class test1 {
         System.out.println("3");
         System.out.println("4");
         System.out.println("master-merge");
+        System.out.println("hot-fix-merge");
     }
 }
